@@ -10,6 +10,7 @@
   url("https://images.pexels.com/photos/114979/pexels-photo-114979.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
 background-size: cover;
 background-position: center;
+overflow: hidden;
 }
 
 form{
@@ -22,6 +23,7 @@ form{
 h1{
   color: rgb(81, 1, 81);
   text-align: center;
+  padding-top: 5px;
 }
 
 button{
